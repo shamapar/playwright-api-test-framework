@@ -8,7 +8,7 @@ Visual Studio Code
 
 ### clone repository
 ```
-git clone https://github.com/sparveen123/playwright-api-test-framework.git
+git clone https://github.com/shamapar/playwright-api-test-framework.git
 ```
 
 ### command to install package
